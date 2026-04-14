@@ -4,7 +4,7 @@ I'm Enzo, a Game Development student at Tecnocampus focused on programming. I've
 
 I'm currently working by myself on different prototypes to explore new possibilities for learning and creating.
 
-For my previously mentioned projects I've worked mostly with Unity (C#), Unreal Engine (C++), Love2D (Lua), SFML (C++ / C#) and some Raylib (C).
+For my previously mentioned projects I've worked mostly with Unity (C#), Unreal Engine (C++), Love2D (Lua), SFML (C++ / C#) and some Raylib (C++ / C).
 
 ### Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
